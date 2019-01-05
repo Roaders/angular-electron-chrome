@@ -1,0 +1,7 @@
+{
+    "id": "ElectronBuilderSchema",
+    "title": "Electron builder",
+    "description": "Electron builder options",
+    "properties": {
+    }
+  }
