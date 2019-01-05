@@ -2,7 +2,7 @@
     "$schema": "@angular-devkit/architect/src/builders-schema.json",
     "builders": {
       "electron": {
-        "class": "./dist/electron-builder.js",
+        "class": "./src/electron-builder.ts",
         "schema": "./src/electron-builder.schema.json",
         "description": "My cool builder that builds things up"
       }
